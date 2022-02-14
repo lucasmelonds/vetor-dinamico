@@ -94,4 +94,4 @@ double array_list_percent_occupied(array_list_int * list){
 
 void array_list_destroy(array_list_int * list){
   free(list);
-}
+} 
