@@ -1,6 +1,3 @@
-
-
-
 // Bibliotecas
 #include "array_list_int.h"
 #include <stdlib.h>
